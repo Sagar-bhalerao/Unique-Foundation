@@ -1,0 +1,54 @@
+@media screen and (max-width: 768px) {
+  .table {
+    overflow-x: auto;
+  }
+
+  .searchInput {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
+
+.table {
+    margin: 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+   border-radius: 1rem;
+   height: 25rem;
+   font-family: 'Calibri', sans-serif;
+    margin-top: 16px;
+    
+  }
+  .table h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+    background: #b5a2ff;
+    font-weight: bold;
+    font-style: inherit;
+    
+    /* margin-left: 10rem; */
+  }
+  .header{
+    /* padding:20pxs */
+    margin-top: -4px;
+  }
+  .dataTable{
+  margin-top: -14px ;
+  
+    
+  }
+  .deleteButton{
+    margin-left: 1rem;
+  }
+  .viewButton{
+    margin-left: 1rem;
+  }
+  .pegenation{
+    float: right;
+    margin-right: 40px;
+  }
+
+  

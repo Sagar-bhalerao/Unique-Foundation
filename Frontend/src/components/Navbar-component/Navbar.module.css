@@ -1,0 +1,13 @@
+.navbar {
+    background: #6012f0;
+    /* style={{paddingLeft:"40px", fontWeight: 'bold'}} */
+    padding-left: 40px;
+    font-weight: bold;
+  }
+
+ .navLink{
+    margin-left: 3rem;
+    color: white !important;
+
+ }
+ 

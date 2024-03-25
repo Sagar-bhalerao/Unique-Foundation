@@ -1,0 +1,38 @@
+.container{
+   margin-top: 4rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px;
+   /* height: 100%;  */
+   background:#E5E0F2;
+    font-family: 'Calibri', sans-serif;
+     
+}
+
+.container h2{
+    display: flex;
+    justify-content: center;
+}
+.form-label {
+    font-size: large; /* Change the color to your desired color */
+    font-weight: 500;
+  }
+  
+.danger{
+    margin-left: 1rem;
+}
+
+.form-control{
+    width: 50%;
+}
+.buttons{
+    margin-left: 15rem;
+}
+.errors{
+    color: red;
+}
+    /* .member-form{
+        height: 100vb   ;
+        width: 100%;
+        background: linear-gradient( #89c1ee, #997070);
+    } */
+
